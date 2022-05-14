@@ -1,5 +1,5 @@
-# GTA-V carFleet
-GTA-V
+# GTA-Online carFleet
+GTA-Online
 
 //PresentBalance
 //$12million246thousand332
@@ -26,6 +26,7 @@ GTA-V
       //redandwhitedecal
       //$1million076thousand425
       //position3
+    
     <entryTwo>
       //nightclubgarage
       //highvalue garage
@@ -45,8 +46,7 @@ GTA-V
       //gold
       //$229thousand740
       //<first value car brought>
-      //position7
-      
+      //position7  
       //KarinKurumaarmoured,sports
       //yellow
       //$361thousand750
@@ -76,16 +76,15 @@ GTA-V
         //yellow
         //Arenawarscustomized
         //$8thousand6892
-        
         //BravadoGresleySUV
         //chrome
         //$3900
-        
 //declasse sabre turbo muscle
 //grey
 //$34745
 //position13
 //can alter in Benny's Autoshop
+        
         <agency.and.office.also.other.random.garages.at.aeroport/and/arenawars for example>
           //agencygarage
           //EnusJubilee
@@ -107,14 +106,12 @@ GTA-V
           //red.blackdecal
           //ArenaWarfare.CustomRide1
           //$1thousand1969
-          
           //vapiddominator.muscle
           //mixeddecalbluegreenwhite
           //$69thousand8575
           //RoadWarsCar.custom.build
-//position8
-          
+          //position8
           
           //other.garages
-          //aeroportx
+          //aeroportxvoid
           
