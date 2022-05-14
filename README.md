@@ -49,10 +49,28 @@ GTA-Online
       //KarinKurumaarmoured,sports
       //yellow
       //$361thousand750
-      position5
-      //grottisTurismoR,Super
-      //yellow
-      //$0 <free>
+      //position5
+      //DeclasseSabreTurbo,muscle
+      //grey
+      //$34745
+      //DeclasseTornadoCustom,SportsClassics
+      //Red
+      //$228000
+      //OcelotJackal,coupe
+      //bright green
+      //$72312
+      //LampardattiFelonGTCoupe
+      //white
+      //$?
+      //Pegassi?,motorcycle
+      //grey
+      //$?
+      //Porolo,motorcycle
+      //red
+      //$?
+      //UbermachtZionCabrio
+      //red
+      //$?
       
       <entryThree>
         //autoshopgaraage
