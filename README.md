@@ -12,7 +12,6 @@ GTA-Online
   //salePrice
   //realworldcar
   //otherComments
-  <fin>
 
   <entryOne>
     //penthouseGarage
