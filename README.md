@@ -30,6 +30,8 @@ GTA-Online
       //blue
   
     <entryTwo>
+    
+    note to self, I need to further upgrade these cars, braking, engine, transmission, and turbos. Also give them some nice paint jobs, basically a complete makeover, to make them look good!
       //nightclubgarage
       //highvalue garage
       //grottiVisione,Super
