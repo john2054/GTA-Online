@@ -2,7 +2,7 @@
 GTA-Online
 
 //GTA online cash Balance
-//$415254
+//$412359
 Casino chips
 51145
 <createClass.carFleet>
