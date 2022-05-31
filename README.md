@@ -137,6 +137,19 @@ Pegassi Ignus: Lamborghini Sian FKP 37
 OverFlod Zeno:SSC Tuatara
 Progen Emerus: 2019 McLaren Senna
 Pegassi Ignus: Lamborghini Sian FKP 37
+
+Arena War Workshop
+
+Grotto cheetah classic sports classics
+Vapid Retinu sports classics
+Vapid Nightmare Dominator Muscle (a proper beast of a car. Costing several million to fully kit out!)
+    Or I could just do the arena career?
+
+And finally the AutoShop Garage
+Pegassi Toreador, sports classics
+
+I'm too tired to do any more!
+
       //highvalue garage
       //grottiVisione,Super
       //red
