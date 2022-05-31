@@ -2,7 +2,7 @@
 GTA-Online
 
 //GTA online cash Balance
-//$1139754
+//$415254
 Casino chips
 51145
 <createClass.carFleet>
@@ -83,8 +83,18 @@ Vapid Dominator, muscle: Ford Mustang (nice)
 Dinka Jester, sports: Acura MDX Concept, McLaren NPK 12C
 
 Lampadati Cunquemila, sedans: 2013 Maserati Quattroporte V1
+Agency
+Dewbauchee Champion: Aston Martin Victor, missile lock on jammer (I may have sold this one) sports weaponised
+Buffalo STX muscle weaponised
+Enus Jubilee SUV weaponised
+Declasse Granger 3600LX (potential for weapons, but not yet purchased)
+Ubermacht Oracle XS coupes,Lampadati Felon GT coupe
+Ubermacht Zion Cabrio coupe
 
-Dewbauchee Champion: Aston Martin Victor, missile lock on jammer (I may have sold this one)
+Missing:
+Deity
+and the Patriot Mil-Spec
+
 
 Progen Itali GTO Custom
 Ferrari SXX 2005: Grotto Visione
